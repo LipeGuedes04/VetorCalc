@@ -16,7 +16,7 @@ public class VetorCalc {
 		
 		for(int i=0; i<vect.length; i++) {
 			System.out.print("Digite um numero: ");
-			vect[i] = sc.nextInt();	
+			vect[i] = sc.nextDouble();	
 		}
 		
 		sc.nextLine();
