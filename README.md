@@ -47,5 +47,4 @@ O programa utiliza:
 
 ## 👨‍💻 Autor
 
-Felipe Guedes Monteiro
-Projeto desenvolvido para fins acadêmicos.
+Felipe Guedes Monteiro, projeto desenvolvido para fins acadêmicos.
